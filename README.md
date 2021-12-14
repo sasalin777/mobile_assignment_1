@@ -1,2 +1,1 @@
-# mobiledevelop_assignment2
-# mobiledevelop_assignment1
+# mobile_assignment_1
